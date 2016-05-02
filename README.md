@@ -1,6 +1,7 @@
 # PUP
 
 A Simple PHP server for uploading files via Curl.
+![PUP](sethwahle.com/corgi.jpeg)
 
 ## Server Installation:
 	
